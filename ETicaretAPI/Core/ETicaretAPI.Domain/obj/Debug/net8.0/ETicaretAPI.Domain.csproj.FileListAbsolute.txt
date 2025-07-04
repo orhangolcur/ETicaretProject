@@ -11,3 +11,4 @@ C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net8.0\ETicaretAPI.Domain.runtimeconfig.json
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.genruntimeconfig.cache
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.sourcelink.json

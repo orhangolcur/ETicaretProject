@@ -8,6 +8,5 @@ using System.Threading.Tasks;
 namespace ETicaretAPI.Application.Repositories
 {
     public interface ICustomerWriteRepository : IWriteRepository<Customer>
-    {
-    }
+    { }
 }

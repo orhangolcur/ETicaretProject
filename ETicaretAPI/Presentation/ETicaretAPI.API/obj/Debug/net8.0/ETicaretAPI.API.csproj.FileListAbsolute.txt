@@ -148,3 +148,4 @@ C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAP
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.pdb
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.genruntimeconfig.cache
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ref\ETicaretAPI.API.dll
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.sourcelink.json

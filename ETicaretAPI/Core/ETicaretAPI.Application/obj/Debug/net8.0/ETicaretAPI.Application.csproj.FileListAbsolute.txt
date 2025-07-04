@@ -13,3 +13,4 @@ C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Applic
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\refint\ETicaretAPI.Application.dll
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.pdb
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ref\ETicaretAPI.Application.dll
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.sourcelink.json
