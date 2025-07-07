@@ -12,19 +12,21 @@ namespace ETicaretAPI.API.Controllers
         readonly private IProductWriteRepository _productWriteRepository;
 
         readonly private IOrderWriteRepository _orderWriteRepository;
+        readonly private IOrderReadRepository _orderReadRepository;
 
         readonly private ICustomerWriteRepository _customerWriteRepository;
         public ProductController(
             IProductWriteRepository productWriteRepository,
             IProductReadRepository productReadRepository,
             IOrderWriteRepository orderWriteRepository,
-            ICustomerWriteRepository customerWriteRepository
-           )
+            ICustomerWriteRepository customerWriteRepository,
+            IOrderReadRepository orderReadRepository)
         {
             _productWriteRepository = productWriteRepository;
             _productReadRepository = productReadRepository;
             _orderWriteRepository = orderWriteRepository;
             _customerWriteRepository = customerWriteRepository;
+            _orderReadRepository = orderReadRepository;
         }
 
 
@@ -52,6 +54,7 @@ namespace ETicaretAPI.API.Controllers
             */
 
             var customerId = Guid.NewGuid();
+            /*
             await _customerWriteRepository.AddAsync(new()
             {
                 Id = customerId,
@@ -70,6 +73,9 @@ namespace ETicaretAPI.API.Controllers
                 Address = "Sipariş Adresi 2",
                 CustomerId = customerId,
             });
+            */
+            Order order = await _orderReadRepository.GetByIdAsync("0197d539-ee44-71af-8f6c-1383d7fc7212");
+            order.Address = "Eskişehir";
             await _orderWriteRepository.SaveAsync();
 
         }
