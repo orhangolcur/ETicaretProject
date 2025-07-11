@@ -28,6 +28,7 @@ namespace ETicaretAPI.Persistance.Contexts
                 {
                     EntityState.Added => data.Entity.CreatedDate = DateTime.UtcNow,
                     EntityState.Modified => data.Entity.UpdatedDate = DateTime.UtcNow,
+                    _ => DateTime.UtcNow //Silme işleminde bu satırı koymadığımız zaman otomatik olarak Modified satırına girer.
                 };
             }
             return await base.SaveChangesAsync(cancellationToken);

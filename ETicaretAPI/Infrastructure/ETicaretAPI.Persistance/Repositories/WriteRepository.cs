@@ -53,6 +53,7 @@ namespace ETicaretAPI.Persistance.Repositories
         
         public bool Update(T model)
         {
+            //Track edilmeyen verileri güncelleyebilmek için Update fonks. vardır. Diğer türlü Db de yer alan verilerin değerlerini değiştirdiğimizde Update otomatik algılanır.
             EntityEntry<T> entityEntry = Table.Update(model);
             return entityEntry.State == EntityState.Modified;
         }
