@@ -135,12 +135,6 @@ C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAP
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.ETicaretAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.ETicaretAPI.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ETicaretAPI.API.props
-C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ETicaretAPI.API.props
-C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ETicaretAPI.API.props
-C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaret.822DF9EF.Up2Date
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.dll
@@ -149,3 +143,13 @@ C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAP
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.genruntimeconfig.cache
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ref\ETicaretAPI.API.dll
 C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\ETicaretAPI.API.sourcelink.json
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\ETicaretAPI.Infrastructure.dll
+C:\Users\orhan\Masaüstü\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
