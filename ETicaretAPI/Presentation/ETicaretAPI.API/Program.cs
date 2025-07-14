@@ -34,6 +34,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseStaticFiles(); //wwwroot'u kullanabilmek için çaðýrmamýz gerekiyor
+
 app.UseCors();
 
 app.UseHttpsRedirection();

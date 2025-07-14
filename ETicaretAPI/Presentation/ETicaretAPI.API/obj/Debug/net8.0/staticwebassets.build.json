@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "AYplJH3BpbWZUzqtFxLZ7g3GCwjPqG+gg9UG1+05vKs=",
-  "Source": "ETicaretAPI.API",
-  "BasePath": "_content/ETicaretAPI.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"RsxRKcZOnHCgpUidfrTzN3syyvntqxlEZLPn4BXwmCg=","Source":"ETicaretAPI.API","BasePath":"_content/ETicaretAPI.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"ETicaretAPI.API\\wwwroot","Source":"ETicaretAPI.API","ContentRoot":"C:\\Users\\orhan\\Masaüstü\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\","BasePath":"_content/ETicaretAPI.API","Pattern":"**"}],"Assets":[],"Endpoints":[]}
